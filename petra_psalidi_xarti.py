@@ -8,6 +8,7 @@ menu = """1) Πέτρα
 3) Χαρτί
 0) Για να βγείτε απο το πρόγραμμα """
 
+# Δεν έκανα καμία αλλαγή στο κώδικα, αλλά οι αλλαγές έχουν γίνει :)
 def show_result(choise, computer_choise):
     if choise == computer_choise:
         print('Ισσοπαλία')
